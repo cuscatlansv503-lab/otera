@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "SONY ACCION",
+    "file": "https://de9yx47crxs6l.cloudfront.net/playlist.m3u8",
+    "image": "https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w240-h480-rw"
+  },
+  {
+    "id": "2",
+    "title": "SONY COMEDIA",
+    "file": "https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8",
+    "image": "https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w240-h480-rw"
+  },
+  {
+    "id": "3",
+    "title": "SONY THRILLER",
+    "file": "https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8",
+    "image": "https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w240-h480-rw"
+  },
+  {
+    "id": "4",
+    "title": "SONY SERIES COMEDIA",
+    "file": "https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8",
+    "image": "https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w240-h480-rw"
+  },
+  {
+    "id": "5",
+    "title": "SONY EXISTOS",
+    "file": "https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8",
+    "image": "https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w240-h480-rw"
+  },
+  {
+    "id": "6",
+    "title": "SONY BLACKLIST",
+    "file": "https://d25v414d53fogv.cloudfront.net/playlist.m3u8",
+    "image": "https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w240-h480-rw"
+  },
+  {
+    "id": "7",
+    "title": "SONY SHARK TANK",
+    "file": "https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w240-h480-rw",
+    "image": "https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w240-h480-rw"
+  },
+  {
+    "id": "8",
+    "title": "FREETV ACCION",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  },
+  {
+    "id": "9",
+    "title": "FREETV BANDA (Musica)",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  },
+  {
+    "id": "10",
+    "title": "FREETV CLASICO",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  },
+  {
+    "id": "11",
+    "title": "FREETV DRAMA",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16316",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  },
+  {
+    "id": "12",
+    "title": "FREETV ESTELAR",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16318",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  },
+  {
+    "id": "13",
+    "title": "FREETV FAMILIA",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16320",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  },
+  {
+    "id": "14",
+    "title": "FREETV HITS (Musica)",
+    "file": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  },
+  {
+    "id": "15",
+    "title": "FREETV LIVE",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16329",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  },
+  {
+    "id": "16",
+    "title": "FREETV SABER",
+    "file": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  },
+  {
+    "id": "17",
+    "title": "FREETV SUREÑO",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16323",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  },
+  {
+    "id": "18",
+    "title": "FREETV TERROR",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319",
+    "image": "https://video.freetv.com/themes/custom/oly/freetv/logo.png"
+  }
+]
